@@ -5,7 +5,7 @@
   "serialNumber" : "urn:uuid:cfbe9011-fffc-3093-948e-1d80d00e204e",
   "version" : 1,
   "metadata" : {
-    "timestamp" : "2026-03-17T12:04:08Z",
+    "timestamp" : "2026-03-17T12:12:10Z",
     "lifecycles" : [
       {
         "phase" : "build"
@@ -1575,17 +1575,17 @@
   "git-metadata": {
 "repository-url": "https://github.com/billglover-demo/acme-boot-starter.git",
   "commit": {
-    "sha": "9360f7d89006d4435ce35762a06b556a0d4b6e33",
+    "sha": "a738b495e024f003ecdcded165e751bea547d61e",
 	"refs": [ "HEAD",
 "refs/heads/main",
 "refs/remotes/origin/main" ],
-	"time": 1768908990000
+	"time": 1773749449000
   }
 },
 
   "tools": [
     { "name": "mvnw", "version": "3.8.4" },
-    { "name": "java", "version": "11"}
+    { "name": "java", "version": "17"}
   ],
   "submodules": ["com.acme.boot:acme-boot-starter"],
   "dependencyManagementArtifacts": []
